@@ -17,6 +17,7 @@ git clone https://github.com/<your-username>/GoApiWeatherApp.git
 cd GoApiWeatherApp
 ```
 2) Environment:
+The site [OpenWeatherMap](https://openweathermap.org/current) takes a correct API key.
 Create a `.env` in the project root:
 ```bash
 BASE_URL=https://api.openweathermap.org/data/2.5/weather
