@@ -14,7 +14,7 @@ Small Go CLI that asks for a city, calls the OpenWeather API, and shows descript
 1) Clone:
 ```bash
 git clone https://github.com/<your-username>/GoApiWeatherApp.git
-cd awesomeProject1
+cd GoApiWeatherApp
 ```
 2) Environment:
 Create a `.env` in the project root:
