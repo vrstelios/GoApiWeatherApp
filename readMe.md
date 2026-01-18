@@ -1,5 +1,5 @@
 ## Go Weather App
-Small Go CLI that asks for a city, calls the OpenWeather API, and shows description, temperature, and humidity.
+Small Go CLI that tasks for a city, calls the OpenWeather API, and shows description, temperature, and humidity.
 
 ### Features
 - City input from the terminal.
