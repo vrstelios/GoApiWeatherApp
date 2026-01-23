@@ -13,7 +13,7 @@ Small Go CLI that tasks for a city, calls the OpenWeather API, and shows descrip
 ### Setup
 1) Clone:
 ```bash
-git clone https://github.com/<your-username>/GoApiWeatherApp.git
+git clone https://github.com/vrstelios/GoApiWeatherApp.git
 cd GoApiWeatherApp
 ```
 2) Environment:
